@@ -67,7 +67,7 @@ We use a modern and efficient technology stack, including but not limited to:
 
 Whether you're a startup, SME, or enterprise, let's build something amazing together.
 
-- 🌐 Website: [www.mohulssoft.com](https://www.mohulssoft.com) *(if applicable)*
+- 🌐 Website: [www.mohulssoft.com](https://www.mohuls.com)
 - 📧 Email: contact@mohulssoft.com
 - 📍 Location: [City, Country]
 
