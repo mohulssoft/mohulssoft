@@ -70,6 +70,8 @@ Whether you're a startup, SME, or enterprise, let's build something amazing toge
 - 🌐 Website: [www.mohulssoft.com](https://www.mohuls.com)
 - 📧 Email: contact@mohulssoft.com
 - 📍 Location: [City, Country]
+- 🔗 Facebook: [facebook.com/mohulssoft](https://www.facebook.com/mohulssoft)
+- 🔗 LinkedIn: [linkedin.com/company/mohulssoft](https://www.linkedin.com/company/mohulssoft)
 
 ---
 
